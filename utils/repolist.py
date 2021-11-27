@@ -25,7 +25,7 @@ class RepoList:
 
         if type(API_DATA) is not int:
             for i in range(API_DATA_LEN):
-                print(f"{gc.white}Repository nº {REPO_NUM}{gc.res} - {gc.yellow}{API_DATA[i]['name']}{gc.res}")
+                print(f"[🍕] {gc.white}Repository nº {REPO_NUM}{gc.res} - {gc.yellow}{API_DATA[i]['name']}{gc.res}")
 
                 REPO_NUM += 1
         else:

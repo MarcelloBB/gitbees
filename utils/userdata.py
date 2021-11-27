@@ -29,13 +29,13 @@ class UserData:
             FOLLOWING   = API_DATA["following"]
             PUBLIC_REPS = API_DATA["public_repos"]
 
-            print(f"{gc.white}[*] Login       {gc.res} - {gc.yellow}{LOGIN}")
-            print(f"{gc.white}[*] Name        {gc.res} - {gc.yellow}{NAME}")
-            print(f"{gc.white}[*] Location    {gc.res} - {gc.yellow}{LOCATION}")
-            print(f"{gc.white}[*] Bio         {gc.res} - {gc.yellow}{BIO}")
-            print(f"{gc.white}[*] Followers   {gc.res} - {gc.yellow}{FOLLOWERS}")
-            print(f"{gc.white}[*] Following   {gc.res} - {gc.yellow}{FOLLOWING}")
-            print(f"{gc.white}[*] Public repos{gc.res} - {gc.yellow}{PUBLIC_REPS}")
+            print(f"{gc.white}[🐍] Login       {gc.res} - {gc.yellow}{LOGIN}")
+            print(f"{gc.white}[🍕] Name        {gc.res} - {gc.yellow}{NAME}")
+            print(f"{gc.white}[📌] Location    {gc.res} - {gc.yellow}{LOCATION}")
+            print(f"{gc.white}[📗] Bio         {gc.res} - {gc.yellow}{BIO}")
+            print(f"{gc.white}[↙️] Followers   {gc.res} - {gc.yellow}{FOLLOWERS}")
+            print(f"{gc.white}[↗️] Following   {gc.res} - {gc.yellow}{FOLLOWING}")
+            print(f"{gc.white}[☂️] Public repos{gc.res} - {gc.yellow}{PUBLIC_REPS}")
 
         else:
             print(API_DATA)

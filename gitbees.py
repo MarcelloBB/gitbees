@@ -4,8 +4,8 @@ from gitcolors import Gitcolors as gc
 
 def main():
     # Username
-    print(gc.yellow)
-    print(f"Enter Username: {gc.res}",end="")
+    print(gc.white)
+    print(f"[🛠️] Enter Username: {gc.res}",end="")
 
     username = input("")
 
@@ -20,8 +20,8 @@ def main():
     print()
 
     print("Please select a option below:")
-    print(f"{gc.white}[1]{gc.res} - {gc.cyan}See repositories{gc.res}")
-    print(f"{gc.white}[2]{gc.res} - {gc.cyan}See user data{gc.res}")
+    print(f"{gc.white}[1]{gc.res} - {gc.cyan}See repositories 📚{gc.res}")
+    print(f"{gc.white}[2]{gc.res} - {gc.cyan}See user data 💡{gc.res}")
     print()
     
     # Option
