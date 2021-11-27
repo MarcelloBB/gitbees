@@ -1,5 +1,5 @@
-import repolist
-import userdata
+from utils import repolist
+from utils import userdata
 from gitcolors import Gitcolors as gc
 
 def main():
@@ -27,7 +27,7 @@ def main():
     # Option
     option = input("Enter option: ")
     print()
-    
+
     if option == "1":
         repo.listRepos()
 
