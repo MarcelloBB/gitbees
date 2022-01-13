@@ -30,4 +30,3 @@ class RepoList:
                 REPO_NUM += 1
         else:
             print(API_DATA)
-
