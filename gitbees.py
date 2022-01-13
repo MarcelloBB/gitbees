@@ -33,6 +33,3 @@ def main():
 
     elif option == "2":
         udata.ShowData()
-
-if __name__ == "__main__":
-    main()
