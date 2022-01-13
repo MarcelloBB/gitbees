@@ -4,7 +4,7 @@ gitbees uses the `GitHub API` to show `user data` and `repos`
 ## Using
 ### 1 -  Clone this repository
   * ```shell
-    git clone 
+    git clone https://github.com/MarcelloBB/gitbees.git
     ```
   ![gitclonegitbees](https://user-images.githubusercontent.com/88407713/149401379-c0978d1b-0589-4e03-b94d-80d1f435d3f7.png)
   
