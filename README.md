@@ -1,6 +1,9 @@
 # 🐝 gitbees
 ## About
 gitbees uses the `GitHub API` to show `user data` and `repos`
+
+## An important requirement
+
 ## Using
 ### 1 -  Clone this repository
   * ```shell
