@@ -3,6 +3,7 @@
 gitbees uses the `GitHub API` to show `user data` and `repos`
 
 ## An important requirement
+_gitbees_ requires a terminal with _emoji_ support. If you don't have it, change the source code and delete the emojis or use _box drawing characters_.
 
 ## Using
 ### 1 -  Clone this repository
