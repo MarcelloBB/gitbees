@@ -1,4 +1,4 @@
-# gitbees
+# 🐝 gitbees
 ## About
 gitbees uses the `GitHub API` to show `user data` and `repos`
 ## Using
